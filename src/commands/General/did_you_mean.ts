@@ -25,7 +25,7 @@ return void M.reply(await request.buffer('https://i.pinimg.com/originals/9a/f4/0
 MessageType.image,
             undefined,
             undefined,
-            `*Did you mean : ₹help*`
+            `*Did you mean : !help*`
 
 
 )
