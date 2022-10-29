@@ -55,7 +55,7 @@
     "i": "^0.3.6",
     "jimp": "^0.16.1",
     "lyrics-monarch-api": "^2.1.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "mongoose": "^5.12.12",
     "mywaifulist-scraper": "0.0.1",
     "node-cron": "^3.0.0",
